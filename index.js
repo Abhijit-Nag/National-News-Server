@@ -1,6 +1,5 @@
 const express = require('express');
 const app = express();
-const axios = require('axios');
 const Article = require('./models/Article');
 const dotenv = require('dotenv');
 dotenv.config();
