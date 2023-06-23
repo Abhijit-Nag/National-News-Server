@@ -65,7 +65,7 @@ router.post('/paymentverification', async (req, res) => {
         };
 
 
-        res.redirect(`http://localhost:3001/`);
+        res.redirect(`https://national-news.onrender.com/`);
     }
 
 });
